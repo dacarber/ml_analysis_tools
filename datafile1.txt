@@ -1,0 +1,1 @@
+True Median for electrons: 1.7927443249309833 True Median for photons:  2.7349205247052804 True Mean for electrons: 1.7579581361115708 True Mean for photons:  2.674957308500447 True Total electrons 1797 True Total photons 204
